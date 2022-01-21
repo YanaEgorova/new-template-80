@@ -1,0 +1,41 @@
+.hero__wrapper { 
+    background-color: var(--first-brand-color);
+}
+.hero {
+    padding: 45rem 0 30rem;
+    text-align: center;
+}
+.hero .title {
+    margin-bottom: 2rem;
+    color: var(--sub-text-color);
+}
+.hero .text {
+    margin-bottom: 5rem;
+    color: var(--sub-text-color);
+}
+.info__wrapper {
+    background-image: url('../img/triangle.png');
+    background-size: 100% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: var(--third-brand-color);
+}
+.info {
+    padding: 50rem 0 20rem;
+    text-align: center;
+}
+.info .title {
+    font-size: 4rem;
+    line-height: 2;
+}
+@media screen and (min-width: 1440px) {
+    .hero__wrapper { 
+        background-image: url('../img/bg6.png');
+        background-repeat: no-repeat;
+        background-position: center right;
+        background-size: 90rem auto;
+    }
+    .hero {
+        text-align: left;
+    }
+}
