@@ -134,7 +134,7 @@
    .products__list .item {
        position: relative;
        padding-top: 0;
-       width: 35rem;
+       width: 30rem;
        height: 60rem;
        transform-style: preserve-3d;
        perspective: 2000px;
