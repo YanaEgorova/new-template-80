@@ -213,8 +213,8 @@ text-transform: uppercase;
 
  .btn:hover {
   background-color: transparent; 
-  color: var(--sub-text-color);
-  border-color: var(--sub-text-color);
+  color: var(--second-brand-color);
+  border-color: var(--second-brand-color);
  }
 
  .title {
