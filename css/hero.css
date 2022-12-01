@@ -13,15 +13,9 @@
     margin-bottom: 5rem;
     color: var(--sub-text-color);
 }
-.info__wrapper {
-    background-image: url('../img/triangle.png');
-    background-size: 100% auto;
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-color: var(--third-brand-color);
-}
+
 .info {
-    padding: 50rem 0 20rem;
+    padding: 20rem 0;
     text-align: center;
 }
 .info .title {

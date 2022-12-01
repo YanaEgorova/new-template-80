@@ -1,8 +1,4 @@
 .footer__wrapper {
-  background-image: url('../img/triangle2.png');
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-position: top center;
   padding-top: 4rem;
 }
 .footer__block {
